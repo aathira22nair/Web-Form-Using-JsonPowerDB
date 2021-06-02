@@ -8,9 +8,9 @@ A Simple Web Form for getting Employee ID, Employee Name and Email to the databa
 4. It is low level (raw) form of data and is also human readable.
 5. It helps developers in faster coding, in-turn reduces development cost.
 
-**OUTPUT: **
-**WEB-FORM: **
-![image](https://user-images.githubusercontent.com/51441336/120533723-ab6ba480-c3fe-11eb-83fe-237f545a69bd.png)
+# OUTPUT
+WEB-FORM: 
+![image](https://user-images.githubusercontent.com/51441336/120535559-c2ab9180-c400-11eb-860a-2e1f1ad13ba1.png)
 
-**DATABASE: **
+DATABASE:
 ![image](https://user-images.githubusercontent.com/51441336/120534266-44022480-c3ff-11eb-8f20-d756297416c6.png)
